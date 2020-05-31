@@ -1,0 +1,10 @@
+keras    
+keras-applications     
+keras-Preprocessing
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+yfinance
+pandas_datareader

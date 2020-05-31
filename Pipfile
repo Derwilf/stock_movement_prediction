@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "*"
+tensorflow = "*"
+yfinance = "*"
+pandas-datareader = "*"
+Keras = "*"
+Keras-Applications = "*"
+Keras-Preprocessing = "*"
+
+[requires]
+python_version = "3.7"
